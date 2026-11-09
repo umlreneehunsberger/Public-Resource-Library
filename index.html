@@ -1,1 +1,109 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A community library of digital skills, online safety, and technology resources.">
+  <title>Community Digital Resource Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">Community Digital Resource Library</a>
+      <span class="header-note">Free community resources</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <p class="eyebrow">Learn • Connect • Stay Safe</p>
+      <h1>Digital Resource Library</h1>
+      <p class="intro-text">
+        Explore practical guides, handouts, and information to help you
+        use technology, stay safe online, and access digital services.
+      </p>
+    </section>
+
+    <section id="language-section" class="language-section">
+      <h2>Choose your language</h2>
+      <p>Select a language to browse available resources.</p>
+
+      <div class="language-options">
+        <button class="language-button" data-language="english">
+          <span class="language-symbol" aria-hidden="true">EN</span>
+          <span>
+            <strong>English</strong>
+            <small>Browse English resources</small>
+          </span>
+        </button>
+
+        <button class="language-button" data-language="spanish">
+          <span class="language-symbol" aria-hidden="true">ES</span>
+          <span>
+            <strong>Español</strong>
+            <small>Ver recursos en español</small>
+          </span>
+        </button>
+      </div>
+    </section>
+
+    <section id="library-section" class="library-section" hidden>
+      <div class="library-heading">
+        <div>
+          <p class="eyebrow">Resource collection</p>
+          <h2 id="language-heading">English Resources</h2>
+        </div>
+        <button id="change-language" class="text-button">
+          Change language
+        </button>
+      </div>
+
+      <div class="filters">
+        <label>
+          Search resources
+          <input id="search-input" type="search"
+                 placeholder="Search by title or keyword...">
+        </label>
+
+        <label>
+          Topic
+          <select id="category-filter">
+            <option value="">All topics</option>
+          </select>
+        </label>
+
+        <label>
+          Resource type
+          <select id="type-filter">
+            <option value="">All types</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="results-heading">
+        <p id="result-count" aria-live="polite"></p>
+        <button id="clear-filters" class="text-button">Clear filters</button>
+      </div>
+
+      <div id="resource-list" class="resource-grid"></div>
+
+      <p id="empty-message" class="empty-message" hidden>
+        No resources match your search. Try changing your filters.
+      </p>
+    </section>
+
+    <p id="error-message" class="error-message" hidden>
+      The resource list could not be loaded. Please try again later.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>Community Digital Resource Library</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
