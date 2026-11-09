@@ -123,7 +123,7 @@
     "title": "Business Impersonators Bookmark",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Bookmark,
+    "type": "Bookmark",
     "description": "Learn how to recognize and avoid business impersonation scams.",
     "file": "documents/english/scams-and-fraud/Business Impersonators Bookmark.pdf"
   },
@@ -131,7 +131,7 @@
     "title": "Charity Fraud",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Flyer,
+    "type": "Flyer",
     "description": "Learn how to recognize and avoid charity fraud scams,",
     "file": "documents/english/scams-and-fraud/Charity Fraud.pdf"
   },
@@ -139,7 +139,7 @@
     "title": "Government Impersonators Scams Bookmark",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Bookmark,
+    "type": "Bookmark",
     "description": "Learn how to recognize and avoid government impersonators scams,",
     "file": "documents/english/scams-and-fraud/Government Impersonators Scams Bookmark.pdf"
   },
@@ -147,7 +147,7 @@
     "title": "Grandkid and Family Impersonators Scams",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Flyer,
+    "type": "Flyer",
     "description": "Learn how to recognize and avoid government impersonators scams,",
     "file": "documents/english/scams-and-fraud/GrandkidFamilyScams.pdff"
   },
