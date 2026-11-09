@@ -18,9 +18,7 @@ const categories = {
   "online-safety": "Online Safety",
   "scams-and-fraud": "Scams and Fraud",
   "digital-literacy": "Digital Literacy",
-  "digital-skills": "Digital Skills and Device Help",
   "internet-access": "Internet Access",
-  "help-and-support": "Help and Support"
 };
 
 const languageNames = {
