@@ -1,1 +1,52 @@
 
+
+[
+  {
+    "title": "Shop Safe Online",
+    "language": "english",
+    "category": "online-safety",
+    "type": "Handout",
+    "description": "Tips for shopping safely online.",
+    "file": "documents/english/online-safety/shop-safe-online-english.docx"
+  },
+  {
+    "title": "How to Detect AI",
+    "language": "english",
+    "category": "online-safety",
+    "type": "Handout",
+    "description": "Learn how to recognize AI-generated content.",
+    "file": "documents/english/online-safety/how-to-detect-ai-english.pdf"
+  },
+  {
+    "title": "Evaluating Sources of Information",
+    "language": "english",
+    "category": "online-safety",
+    "type": "Handout",
+    "description": "Learn how to evaluate online information and sources.",
+    "file": "documents/english/online-safety/evaluating-sources-english.pdf"
+  },
+  {
+    "title": "Tech Support Pop-Up Scam",
+    "language": "english",
+    "category": "scams-and-fraud",
+    "type": "Handout",
+    "description": "Learn how to recognize fake technology support warnings.",
+    "file": "documents/english/scams-and-fraud/tech-support-pop-up-scam-english.pdf"
+  },
+  {
+    "title": "Affordable Internet Options",
+    "language": "english",
+    "category": "internet-access",
+    "type": "Information Sheet",
+    "description": "Information about affordable internet options.",
+    "file": "documents/english/internet-access/affordable-internet-options-english.pdf"
+  },
+  {
+    "title": "Shop Safe Online",
+    "language": "spanish",
+    "category": "online-safety",
+    "type": "Handout",
+    "description": "Consejos para comprar de manera segura por internet.",
+    "file": "documents/spanish/online-safety/shop-safe-online-spanish.pdf"
+  }
+]
