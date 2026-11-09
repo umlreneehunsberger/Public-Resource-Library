@@ -140,8 +140,8 @@ function displayResources() {
     viewLink.href = item.file;
     viewLink.target = "_blank";
     viewLink.rel = "noopener noreferrer";
-    viewLink.textContent = "View PDF";
-
+    viewLink.textContent = "Open / download";
+    
     const downloadLink = document.createElement("a");
     downloadLink.href = item.file;
     downloadLink.download = "";
