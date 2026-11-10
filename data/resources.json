@@ -349,7 +349,7 @@
     "category": "digital-literacy",
     "type": "Guide",
     "description": "Explicaciones en lenguaje sencillo de términos tecnológicos comunes utilizados en la vida diaria.",
-    "file": "documents/spanish/digital-literacy/Guía de términos tecnológicos para el uso cotidiano.pdf"
+    "file": "documents/spanish/digital-literacy/Guia de terminos tecnologicos para el uso cotidiano.pdf"
   },
   {
     "title": "Guía Práctica para Usar tu Celular o Computadora",
@@ -357,7 +357,7 @@
     "category": "digital-literacy",
     "type": "Guide",
     "description": "Guía paso a paso para realizar tareas cotidianas y desarrollar habilidades digitales básicas en celulares y computadoras.",
-    "file": "documents/spanish/digital-literacy/Guía práctica para usar tu celular o computadora.pdf"
+    "file": "documents/spanish/digital-literacy/Guia practica para usar tu celular o computadora.pdf"
   },
   {
     "title": "Compra de forma segura",
@@ -373,7 +373,7 @@
     "category": "online-safety",
     "type": "Handout",
     "description": "Aprenda a reconocer contenido generado por inteligencia artificial.",
-    "file": "documents/spanish/online-safety/Cómo detectar contenido generado por IA.pdf"
+    "file": "documents/spanish/online-safety/Como detectar contenido generado por IA.pdf"
   },
   {
     "title": "Cómo Evaluar las Fuentes de Información",
@@ -381,7 +381,7 @@
     "category": "online-safety",
     "type": "Handout",
     "description": "Aprenda a evaluar fuentes de información y a identificar contenido confiable en línea.",
-    "file": "documents/spanish/online-safety/Cómo evaluar las fuentes de información.pdf"
+    "file": "documents/spanish/online-safety/Como evaluar las fuentes de información.pdf"
   },
   {
     "title": "Cómo Puedo Saber si la Información es Fiable",
@@ -389,7 +389,7 @@
     "category": "online-safety",
     "type": "Infographic",
     "description": "Infografía con consejos para determinar si la información encontrada en línea es confiable y precisa.",
-    "file": "documents/spanish/online-safety/Cómo puedo saber si la información es fiable.png"
+    "file": "documents/spanish/online-safety/Como puedo saber si la información es fiable.png"
   },
   {
     "title": "Cómo Saber si una Página Web no es Peligrosa",
@@ -397,7 +397,7 @@
     "category": "online-safety",
     "type": "Handout",
     "description": "Consejos para identificar sitios web seguros y evitar páginas fraudulentas o peligrosas.",
-    "file": "documents/spanish/online-safety/Cómo saber si una página web no es peligrosa.pdf"
+    "file": "documents/spanish/online-safety/Como saber si una página web no es peligrosa.pdf"
   },
   {
     "title": "Estafa de Ventana Emergente de Soporte Técnico",
@@ -405,7 +405,7 @@
     "category": "scams-and-fraud",
     "type": "Handout",
     "description": "Aprenda a reconocer y evitar las estafas de soporte técnico mediante ventanas emergentes falsas.",
-    "file": "documents/spanish/scams-and-fraud/Estafa de ventana emergente de soporte técnico.pdf"
+    "file": "documents/spanish/scams-and-fraud/Estafa de ventana emergente de soporte tecnico.pdf"
   },
   {
     "title": "Estafas de Empleo y Oportunidades para Ganar Dinero",
@@ -485,7 +485,7 @@
     "category": "scams-and-fraud",
     "type": "Article",
     "description": "Información sobre estafas de premios, loterías y sorteos falsos que prometen ganancias inexistentes.",
-    "file": "documents/spanish/scams-and-fraud/Estafas “usted ganó”.pdf"
+    "file": "documents/spanish/scams-and-fraud/Estafas usted gano.pdf"
   },
   {
     "title": "Investment Scams Bookmark",
@@ -509,7 +509,7 @@
     "category": "scams-and-fraud",
     "type": "Article",
     "description": "Información sobre la Línea Nacional de Fraude a Personas Mayores y los recursos disponibles para obtener ayuda.",
-    "file": "documents/spanish/scams-and-fraud/Línea Nacional Fraude a Personas de Edad Avanzada.pdf"
+    "file": "documents/spanish/scams-and-fraud/Linea Nacional Fraude a Personas de Edad Avanzada.pdf"
   },
   {
     "title": "Marcador Estafas en Reparaciones del Hogar",
@@ -525,7 +525,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para identificar estafas en las que delincuentes se hacen pasar por empresas legítimas.",
-    "file": "documents/spanish/scams-and-fraud/Marcador de estafas por suplantación de empresas.pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcador de estafas por suplantacion de empresas.pdf"
   },
   {
     "title": "Marcador de Estafas Relacionadas con Empleos para Ganar Dinero",
@@ -549,7 +549,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para identificar estafas en las que delincuentes se hacen pasar por agencias u organismos gubernamentales.",
-    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas de suplantación de entidades gubernamentales.pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas de suplantacion de entidades gubernamentales.pdf"
   },
   {
     "title": "Marcador sobre Estafas de '¡Has Ganado!'",
@@ -557,7 +557,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para reconocer estafas de premios, sorteos y loterías falsas.",
-    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas de «¡Has ganado!».pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas de Has ganado.pdf"
   },
   {
     "title": "Marcador sobre Estafas que Involucran a Nietos y Familiares",
@@ -573,7 +573,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para reconocer fraudes relacionados con seguros médicos y proteger su información personal.",
-    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas relacionadas con seguros médicos.pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcador sobre estafas relacionadas con seguros medicos.pdf"
   },
   {
     "title": "Marcapáginas sobre el Fraude en Organizaciones Benéficas",
@@ -581,7 +581,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para identificar organizaciones benéficas falsas y realizar donaciones de forma segura.",
-    "file": "documents/spanish/scams-and-fraud/Marcapáginas sobre el fraude en organizaciones benéficas.pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcapaginas sobre el fraude en organizaciones beneficas.pdf"
   },
   {
     "title": "Marcapáginas sobre el Robo de Identidad",
@@ -589,7 +589,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para prevenir el robo de identidad y proteger la información personal.",
-    "file": "documents/spanish/scams-and-fraud/Marcapáginas sobre el robo de identidad.pdf"
+    "file": "documents/spanish/scams-and-fraud/Marcapaginas sobre el robo de identidad.pdf"
   },
   {
     "title": "Necesitas Ayuda o Quieres Reportar una Estafa",
@@ -613,7 +613,7 @@
     "category": "scams-and-fraud",
     "type": "Article",
     "description": "Aprenda a identificar y evitar las estafas de soporte técnico que utilizan alertas y mensajes falsos.",
-    "file": "documents/spanish/scams-and-fraud/estafa de soporte técnico.pdf"
+    "file": "documents/spanish/scams-and-fraud/estafa de soporte tecnico.pdf"
   },
   {
     "title": "Estafas de Impostores",
@@ -629,7 +629,7 @@
     "category": "scams-and-fraud",
     "type": "Bookmark",
     "description": "Consejos rápidos para mantenerse seguro al utilizar sitios web y aplicaciones de citas en línea.",
-    "file": "documents/spanish/scams-and-fraud/marcador de citas en línea.pdf"
+    "file": "documents/spanish/scams-and-fraud/marcador de citas en linea.pdf"
   },
   {
     "title": "Pásalo: Estafas de Impostores",
