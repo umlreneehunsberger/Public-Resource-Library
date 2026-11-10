@@ -92,7 +92,6 @@ const resourceTypes = {
     "Guide": "Guide",
     "Flyer": "Flyer",
     "Handout": "Handout",
-    "Article": "Article",
     "Bookmark": "Bookmark",
     "Infographic": "Infographic",
     "Resource": "Resource"
@@ -101,7 +100,6 @@ const resourceTypes = {
     "Guide": "Guía",
     "Flyer": "Volante",
     "Handout": "Material informativo",
-    "Article": "Artículo",
     "Bookmark": "Marcador",
     "Infographic": "Infografía",
     "Resource": "Recurso"
