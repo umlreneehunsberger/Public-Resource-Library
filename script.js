@@ -86,15 +86,16 @@ const translations = {
   }
 };
 
+
 const resourceTypes = {
   english: {
-    "Guide": "Guía",
-    "Flyer": "Volante",
-    "Handout": "Material informativo",
-    "Article": "Artículo",
-    "Bookmark": "Marcador",
-    "Infographic": "Infografía",
-    "Resource": "Recurso"
+    "Guide": "Guide",
+    "Flyer": "Flyer",
+    "Handout": "Handout",
+    "Article": "Article",
+    "Bookmark": "Bookmark",
+    "Infographic": "Infographic",
+    "Resource": "Resource"
   },
   spanish: {
     "Guide": "Guía",
