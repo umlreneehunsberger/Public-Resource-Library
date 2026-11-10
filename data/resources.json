@@ -171,7 +171,7 @@
     "title": "Health Insurance",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Learn about common health insurance scams and how to protect yourself.",
     "file": "documents/english/scams-and-fraud/Health Insurance.pdf"
   },
@@ -219,7 +219,7 @@
     "title": "Job and Money-Making Scams",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Learn how to identify fraudulent job offers and money-making schemes.",
     "file": "documents/english/scams-and-fraud/Job and Money-Making Scams.pdf"
   },
@@ -243,7 +243,7 @@
     "title": "Romance Scams",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Learn how romance scams work and how to protect yourself online.",
     "file": "documents/english/scams-and-fraud/RomanceScams.pdf"
   },
@@ -331,7 +331,7 @@
     "title": "You've Won Scams",
     "language": "english",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Learn how prize, lottery, and sweepstakes scams work and how to avoid them.",
     "file": "documents/english/scams-and-fraud/“You’ve Won” Scams.pdf"
   },
@@ -411,7 +411,7 @@
     "title": "Estafas de Empleo y Oportunidades para Ganar Dinero",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre estafas relacionadas con ofertas de empleo y esquemas para ganar dinero rápidamente.",
     "file": "documents/spanish/scams-and-fraud/Estafas de empleo y oportunidades para ganar dinero.pdf"
   },
@@ -419,7 +419,7 @@
     "title": "Estafas de Impostores de Negocios",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda cómo operan las estafas que utilizan identidades falsas de empresas legítimas.",
     "file": "documents/spanish/scams-and-fraud/Estafas de impostores de negocios.pdf"
   },
@@ -427,7 +427,7 @@
     "title": "Estafas de Impostores del Gobierno",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre estafas en las que delincuentes se hacen pasar por agencias gubernamentales.",
     "file": "documents/spanish/scams-and-fraud/Estafas de impostores del gobierno.pdf"
   },
@@ -435,7 +435,7 @@
     "title": "Estafas de Inversiones",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda a identificar oportunidades de inversión fraudulentas y a proteger su dinero.",
     "file": "documents/spanish/scams-and-fraud/Estafas de inversiones.pdf"
   },
@@ -443,7 +443,7 @@
     "title": "Estafas de Organizaciones de Caridad",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre cómo identificar organizaciones benéficas fraudulentas y donar de manera segura.",
     "file": "documents/spanish/scams-and-fraud/Estafas de organizaciones de caridad.pdf"
   },
@@ -451,7 +451,7 @@
     "title": "Estafas de Reparaciones en el Hogar",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda a reconocer prácticas engañosas y estafas relacionadas con reparaciones del hogar.",
     "file": "documents/spanish/scams-and-fraud/Estafas de reparaciones en el hogar.pdf"
   },
@@ -459,7 +459,7 @@
     "title": "Estafas de Romances",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda cómo funcionan las estafas románticas y cómo protegerse de los delincuentes que buscan establecer relaciones falsas para obtener dinero.",
     "file": "documents/spanish/scams-and-fraud/Estafas de romances.pdf"
   },
@@ -467,7 +467,7 @@
     "title": "Estafas de Seguro de Salud",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre fraudes relacionados con seguros médicos y consejos para evitar ser víctima de estas estafas.",
     "file": "documents/spanish/scams-and-fraud/Estafas de seguro de salud.pdf"
   },
@@ -475,7 +475,7 @@
     "title": "Estafas del Nieto y Otras Emergencias Familiares",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda a reconocer las estafas que utilizan falsas emergencias familiares para solicitar dinero urgente.",
     "file": "documents/spanish/scams-and-fraud/Estafas del nieto y otras emergencias familiares.pdf"
   },
@@ -483,7 +483,7 @@
     "title": "Estafas 'Usted Ganó'",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre estafas de premios, loterías y sorteos falsos que prometen ganancias inexistentes.",
     "file": "documents/spanish/scams-and-fraud/Estafas usted gano.pdf"
   },
@@ -499,7 +499,7 @@
     "title": "Llamadas y Mensajes de Texto no Deseados",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre llamadas y mensajes fraudulentos, y cómo reducir el riesgo de ser víctima de estas estafas.",
     "file": "documents/spanish/scams-and-fraud/Llamadas y mensajes de texto no deseados.pdf"
   },
@@ -507,7 +507,7 @@
     "title": "Línea Nacional Fraude a Personas de Edad Avanzada",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre la Línea Nacional de Fraude a Personas Mayores y los recursos disponibles para obtener ayuda.",
     "file": "documents/spanish/scams-and-fraud/Linea Nacional Fraude a Personas de Edad Avanzada.pdf"
   },
@@ -603,7 +603,7 @@
     "title": "Robo de Identidad",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre cómo ocurre el robo de identidad y las medidas para protegerse.",
     "file": "documents/spanish/scams-and-fraud/Robo de identidad.pdf"
   },
@@ -611,7 +611,7 @@
     "title": "Estafa de Soporte Técnico",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Aprenda a identificar y evitar las estafas de soporte técnico que utilizan alertas y mensajes falsos.",
     "file": "documents/spanish/scams-and-fraud/estafa de soporte tecnico.pdf"
   },
@@ -619,7 +619,7 @@
     "title": "Estafas de Impostores",
     "language": "spanish",
     "category": "scams-and-fraud",
-    "type": "Article",
+    "type": "Handout",
     "description": "Información sobre estafas en las que delincuentes se hacen pasar por personas u organizaciones de confianza.",
     "file": "documents/spanish/scams-and-fraud/estafas de impostores.pdf"
   },
