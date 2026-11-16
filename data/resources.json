@@ -631,6 +631,14 @@
     "description": "Información sobre estafas en las que delincuentes se hacen pasar por personas u organizaciones de confianza.",
     "file": "documents/spanish/scams-and-fraud/estafas de impostores.pdf"
   },
+    {
+    "title": "Estafa mediante ventana emergente de soporte técnico",
+    "language": "spanish",
+    "category": "scams-and-fraud",
+    "type": "Handout",
+    "description": "Aprende a reconocer y evitar las estafas mediante ventanas emergentes de falso soporte técnico.",
+    "file": "documents/english/scams-and-fraud/Estafa mediante ventana emergente de soporte tecnico.pdf"
+  },
   {
     "title": "Marcador de Citas en Línea",
     "language": "spanish",
