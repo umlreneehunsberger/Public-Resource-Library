@@ -399,6 +399,14 @@
     "description": "Consejos para identificar sitios web seguros y evitar páginas fraudulentas o peligrosas.",
     "file": "documents/spanish/online-safety/Como saber si una página web no es peligrosa.pdf"
   },
+   {
+    "title": "Como identificar sitios seguros",
+    "language": "spanish",
+    "category": "online-safety",
+    "type": "Handout",
+    "description": "Consejos para identificar sitios web seguros y confiables.",
+    "file": "documents/spanish/online-safety/Como identificar sitios seguros.pdf"
+  },
   {
     "title": "Estafa de Ventana Emergente de Soporte Técnico",
     "language": "spanish",
